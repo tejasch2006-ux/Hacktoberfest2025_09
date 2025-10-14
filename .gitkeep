@@ -1,5 +1,5 @@
-# Add a .gitkeep file to each empty folder
-touch AiMl_And_AutomationScripts/.gitkeep
-touch "Data_Structures&Algorithms/.gitkeep"
-touch "Tools&ScriptsForCybersecurity/.gitkeep"
-touch SoftwareProjects/.gitkeep
+# Add placeholder README.md files in each folder
+echo "Add your AI/ML and automation scripts here." > AiMl_And_AutomationScripts/README.md
+echo "Add your DSA solutions here." > Data_Structures&Algorithms/README.md
+echo "Software projects overview and SDLC info." > SoftwareProjects/SDLC.md
+echo "Add your cybersecurity tools/scripts here." > Tools&ScriptsForCybersecurity/ToolsAndScripts.md

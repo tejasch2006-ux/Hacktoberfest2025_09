@@ -1,0 +1,5 @@
+# Add a .gitkeep file to each empty folder
+touch AiMl_And_AutomationScripts/.gitkeep
+touch "Data_Structures&Algorithms/.gitkeep"
+touch "Tools&ScriptsForCybersecurity/.gitkeep"
+touch SoftwareProjects/.gitkeep

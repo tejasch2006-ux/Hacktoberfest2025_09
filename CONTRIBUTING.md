@@ -1,13 +1,3 @@
-Absolutely 🔥 — here’s a **professional and complete `CONTRIBUTING.md`** for your **Hacktoberfest2025** repository, written clearly so even first-time contributors can follow it easily.
-
-It includes:
-
-* Detailed explanation of every step
-* Clear rules and examples
-* Proper structure for GitHub open-source standards
-
----
-
 ## 🧾 **CONTRIBUTING.md**
 
 ````markdown

@@ -180,10 +180,3 @@ So get started, create something awesome, and enjoy the Hacktoberfest spirit! �
 
 Made with ❤️ by [Saurabh Kokate](https://github.com/kokatesaurabh)
 
-```
-
----
-
-Would you like me to make a **matching Pull Request Template** (`.github/PULL_REQUEST_TEMPLATE.md`) too?  
-It’ll make sure every contributor automatically follows your format when submitting PRs.
-```

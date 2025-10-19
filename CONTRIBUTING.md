@@ -1,6 +1,5 @@
 ## 🧾 **CONTRIBUTING.md**
 
-````markdown
 # 🤝 Contributing to Hacktoberfest 2025
 
 Hello, amazing developer! 🎉  
@@ -138,7 +137,6 @@ Description:
 GitHub Username: kokatesaurabh
 ```
 
----
 
 ## ⚠️ Pull Request Review Process
 
